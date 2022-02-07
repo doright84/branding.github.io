@@ -38,9 +38,4 @@ $(document).ready(function () {
         speed: 800,
 
     });
-    // --------footer-------
-    $('.footer-cont').hover(function () {
-        $('.footer-txt').toggleClass('footer-txt-on');
-        $('.footer').toggleClass('footer-hover');
-    });
 });
